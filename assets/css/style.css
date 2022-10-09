@@ -183,8 +183,17 @@ th {
   padding: 5px 10px;
 }
 
+tr {
+}
+
 td {
-  padding: 5px 10px;
+  padding-top:      10px;
+  padding-bottom:   10px;
+}
+
+li {
+  padding-top:      10px;
+  padding-bottom:   10px;
 }
 
 /*
@@ -236,5 +245,4 @@ td {
 /*
  ************************************************************
  */
-
 
